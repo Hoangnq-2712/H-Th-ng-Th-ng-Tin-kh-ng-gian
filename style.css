@@ -1,0 +1,50 @@
+.nav a{
+    font-weight: 600;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+
+
+
+/* footer */
+*{
+    padding:0;
+    margin: 0;
+}
+.footer{
+    width: 100%;
+    height: 240px;
+}
+.top{
+    /* width: 100%; */
+    height: 80%;
+    background-image: url(image/footer/footer-desktop.727f3a2.png);
+    margin: 0;
+}
+.hoa{
+    width: 100%;
+    background-color: black;
+}
+.hoa .ab{
+    width: 100%;
+    height: 20%;
+    color: white;
+    line-height: 60px;
+    font-size: 13px;
+}
+.hoa .ab p{
+    margin: 0;
+    margin-left: 70px;
+}
+.col-2 img{
+    width: 80%;
+    height: 90%;
+}
+.footer button{
+
+    font-size: 16px;
+}
+.footer ul{
+    line-height: revert;
+}
